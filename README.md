@@ -6,6 +6,7 @@ She always argues the opposite side, speaks only English, and uses logical evide
 ## API Info
 API URL: https://api.coze.cn/v3/chat
 Bot ID: 7634909367934320681
+Note: The access token is kept private and only shared with authorized users.
 
 ## How to use
 Send a message: "Start"
